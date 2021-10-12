@@ -1,0 +1,112 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+/* first section*********************** */
+#pyt{
+    border:  solid #c9e5e5;
+    width: 70%;
+    height: 330px;
+    position: relative;
+    left: 20%;
+    /* padding: 45px; */
+    background-color: #d7e6e6;
+    border-radius: 5px;
+    margin-left: -60px;
+}
+.py{
+    margin: 25px;
+}
+.ss{
+    height: 40px;
+    width: 50px;
+}
+.ski{
+    position: relative;
+    top: -10px;
+    left: 40px;
+    padding: 5px;
+}
+.ski span{
+    color: blue;
+}
+.cour{
+    position: relative;
+    padding: 5px;
+    top: -20px;
+    left: 40px;
+}
+.cour span{
+    color: blue;
+}
+.enrol{
+    position: relative;
+    left: 40px;
+    width: 100px;
+    height: 50px;
+    background-color: #8278f7;
+    border-radius: 9px;
+}
+.stud{
+    position: relative;
+    top: -80px;
+    left: 60px;
+}
+.righ{
+    position: relative;
+    left: 390px;
+    top: -380px;
+    height: 270px;
+    width: 310px;
+    margin-left: 140px;
+}
+.te{
+    position:relative;
+    left: -40px;
+    top: -15px;
+}
+
+/* second section********************************** */
+
+#zd{
+    border: solid #472ea1;
+    width: 50%;
+    height: 130px;
+    position: absolute;
+    z-index: 0.1;
+    top: 480px;
+    left: 350px;
+    background-color:#8c4ba8;;
+    
+    border-radius: 9px;
+}
+.acces1 ,  .prem1{
+    position: relative;
+    top: 10px;
+    left:10px;
+    color: #fff;
+}
+.acces2 ,.prem2{
+    position: relative;
+    top: -13px;
+    left: 230px;
+    color: #fff;
+}
+.acces3 , .prem3{
+    position: relative;
+    top: -36px;
+    left: 500px;
+    color: #fff;
+}
+.prem1{
+    top: -20px;
+}
+.prem2{
+    top: -50px;
+}
+.prem3{
+    top: -80px;
+}
+.checked-1{
+    color: white;
+}

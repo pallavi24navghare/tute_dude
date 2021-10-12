@@ -1,0 +1,111 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+/* main section****************************** */
+.main{
+    border: 1px solid  rgb(245, 229, 229);
+    border-radius: 10px;
+    width: 70%;
+    position: absolute;
+    left: 15%;
+    margin-top: 40px;
+    background: linear-gradient(#c0cfeb ,#f6e5fc);
+}
+.intro{
+    background-color: rgb(192, 173, 173);
+}
+.cir{
+    margin: 10px;
+    color: #8c4ba8 ;
+    font-weight: 900;
+    margin-left: 40px;
+}
+.date{
+    margin: 15px;
+}
+.blur{
+    color: #8c4ba8;
+    margin-left: 50px;
+}
+.blur-1{
+    color: #8c4ba8;
+    margin-left: 50px;
+    position: relative;
+    margin-top: -60px;
+}
+.fa-calendar{
+    text-size-adjust: 1px;
+}
+.watch{
+    font-size: 15px;
+    color: black;
+}
+.bt{
+    padding: 15px;
+    margin: 15px;
+    position: relative;
+    left: 450px;
+    top: -40px;
+    border-radius: 5px;
+    background-color: rgb(205, 122, 243);
+}
+.watch .min{
+    color: black;
+}
+.intro{
+    border: 4px solid purple;
+    border-radius: 9px;
+    margin:  15px;
+    width: 500px;
+    height: 55px;
+}
+
+/* last part******************** */
+
+.box1{
+    border: 1px solid;
+    position: relative;
+    left: 45px;
+    width: 70px;
+    height: 33px;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 4px;
+}
+.bo{
+    border: 1px solid;
+    width: 390px;
+    height: 30px;
+    padding: 4px;
+    border-radius: 5px;
+    background-color: rgb(42, 63, 245);
+}
+.subbox1{
+    height: 40px;
+    position: relative;
+    left: 175px;
+    top: -37px;
+    background-color: #8c4ba8;
+}
+.subbox2{
+    height: 40px;
+    position: relative;
+    left: 245px;
+    top: -42px;
+    background-color: #8c4ba8;
+}
+.subbox3{
+    height: 40px;
+    position: relative;
+    left: 315px;
+    top: -42px;
+    background-color: #8c4ba8;
+}
+.subbox4{
+    height: 40px;
+    position: relative;
+    left: 385px;
+    top: -42px;
+    background-color: #8c4ba8;
+}
